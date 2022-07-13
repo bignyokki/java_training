@@ -1,4 +1,4 @@
-public class Training1_2_keisan {
+public class Training2_1_keisan {
   public static void main(String[] args) {
 
 
