@@ -41,7 +41,10 @@ public class Training3_1_if_do {
           break;
         default:
           System.out.println("凶");
-      }
+        }
+
+
+      
   }
   
 }
